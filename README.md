@@ -10,10 +10,9 @@
 </p>
 
 - 🔭 Atualmente estou trabalhando em <a target="_blank" href="https://www.inovall.com.br/beta/index.php">Inovall</a>
-- 🌱 Sempre aprendendo algo sobre <strong>javascript, react, node e o universo da programação frontend</strong>
-- 💬 Pergunte-me sobre <strong>Desenvolvimento Web - Frontend</strong>
+- 🌱 Sempre aprendendo algo sobre <strong>javascript, react, node e o universo front-end</strong>
+- 💬 Pergunte-me sobre <strong>desenvolvimento web - front-end</strong>
 - 📫 Como entrar em contato comigo: <a target="_blank"  href="https://www.linkedin.com/in/silas-masay-892b74167/">Linkedin</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasmasay&show_icons=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasmasay)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasmasay&show_icons=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
