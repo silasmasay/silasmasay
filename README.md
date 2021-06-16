@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Olá! Sou Silas Masay
 
-<!--
-**silasmasay/silasmasay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/silasmasay">
+    <img src="https://komarev.com/ghpvc/?username=silasmasay" alt="page views" />
+  </a>
+  <a href="https://github.com/silasmasay?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/charllysemerenciano?color=green&logo=github">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=silasmasay&show_icons=true&locale=pt-br" alt="silasmasay" />
+</a>
+
+- 🔭 Atualmente estou trabalhando em <a target="_blank" href="https://www.inovall.com.br/beta/index.php">Inovall</a>
+- 🌱 Sempre aprendendo algo sobre <strong>javascript, react, node e o universo da programação frontend</strong>
+- 💬 Pergunte-me sobre <strong>Desenvolvimento Web - Frontend</strong>
+- 📫 Como entrar em contato comigo: <a target="_blank"  href="https://www.linkedin.com/in/silas-masay-892b74167/">Linkedin</a>
