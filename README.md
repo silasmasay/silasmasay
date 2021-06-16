@@ -15,4 +15,4 @@
 - 📫 Como entrar em contato comigo: <a target="_blank"  href="https://www.linkedin.com/in/silas-masay-892b74167/">Linkedin</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasmasay)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasmasay&show_icons=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasmasay&show_icons=true&locale=pt-br&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
