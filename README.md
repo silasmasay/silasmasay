@@ -24,8 +24,7 @@
   <img align="center" alt="Silas-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Silas-SASS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Silas-Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  
-  <iframe src="https://giphy.com/embed/aNeyXVMrED6fUO1Exy" width="280" height="170" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img align="center" alt="Silas-Gif" src="https://giphy.com/embed/aNeyXVMrED6fUO1Exy" width="280" height="170">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasmasay&locale=pt-br&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
