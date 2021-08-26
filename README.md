@@ -26,7 +26,7 @@ Diante de vocês têm mais um amante da tecnologia que busca sempre pelo aprendi
       <td><img align="center" title="javascript" alt="Silas-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
       <td><img align="center" title="typescript" alt="Silas-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></td>
       <td><img align="center" title="react.js" alt="Silas-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
-      <td><img align="center" title="next.js" alt="Silas-Nextjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></td>
+      <td><img align="center" title="next.js" alt="Silas-Nextjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"></td>
       <td><img align="center" title="yarn" alt="Silas-Yarn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></td>
     </tr>
     <tr>  
