@@ -26,16 +26,22 @@ Diante de vocês têm mais um amante da tecnologia que busca sempre pelo aprendi
       <td><img align="center" alt="Silas-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
       <td><img align="center" alt="Silas-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></td>
       <td><img align="center" alt="Silas-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
+      <td><img align="center" alt="Silas-Nextjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></td>
+      <td><img align="center" alt="Silas-Yarn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"></td>
     </tr>
     <tr>  
       <td><img align="center" alt="Silas-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
       <td><img align="center" alt="Silas-Jquery" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"></td>
       <td><img align="center" alt="Silas-Webpack" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"></td>
+      <td><img align="center" alt="Silas-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
+      <td><img align="center" alt="Silas-NPM" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></td>
     </tr>
     <tr>
       <td><img align="center" alt="Silas-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
       <td><img align="center" alt="Silas-SASS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></td>
       <td><img align="center" alt="Silas-Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></td>
+      <td><img align="center" alt="Silas-SVN" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tortoisegit/tortoisegit-original.svg"></td>
+      <td><img align="center" alt="Silas-Yii" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg"></td>
     </tr>
   </tbody>
 </table>
