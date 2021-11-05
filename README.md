@@ -57,5 +57,6 @@
 </table>
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasmasay&&locale=pt-br&bg_color=120,2dc1d0,5fe8a2&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasmasay&layout=compact&locale=pt-br&bg_color=45,5fe8a2,2dc1d0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasmasay&&locale=pt-br&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasmasay&layout=compact&locale=pt-br&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
