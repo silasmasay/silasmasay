@@ -1,8 +1,6 @@
-# 👋 Bem vindo ao meu GitHub!
+## 👋 Olá, meu nome é Silas e sou Dev FrontEnd!
 
-<p align="left">
-  <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" />
-</p>
+![Banner](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 
 <p align="left">
   <a href="https://github.com/silasmasay">
@@ -13,17 +11,25 @@
   </a>
 </p>
 
-Olá, me chamo Silas e sou Dev FrontEnd.
+- <i>🔭 Atualmente estou trabalhando na <a target="_blank" href="https://www.inovall.com.br/beta/index.php">Inovall!</a></i>
 
-Diante de vocês têm mais um amante da tecnologia que busca sempre pelo aprendizado para a melhora diária como dev e indivíduo. Um entusiasta por este mundo maravilhoso da programação e com finalidade em resoluções de problemas. Por isso a comunicação é imprescindível, assim, foco também no aprimoramento das minhas relações.
+<i>Diante de vocês têm mais um amante da tecnologia que busca sempre pelo aprendizado para a melhora diária como dev e indivíduo. Um entusiasta por este mundo maravilhoso da programação e com finalidade em resoluções de problemas. Por isso a comunicação é imprescindível, assim, foco também no aprimoramento das minhas relações.</i>
 
-- 🔭 Atualmente estou trabalhando na <a target="_blank" href="https://www.inovall.com.br/beta/index.php">Inovall Tecnologia</a>
-- 📫 Quer entrar em contato comigo? 
+##
 
-<a href="https://www.linkedin.com/in/silas-masay-892b74167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="mailto:silasmasay19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 📫 Quer entrar em contato comigo?
 
-<img align="right" alt="Silas-Gif" height="170" width="280" src="https://media3.giphy.com/media/aNeyXVMrED6fUO1Exy/giphy.gif">
+<a href="https://www.linkedin.com/in/silas-masay-892b74167/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="mailto:silasmasay19@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
+<img alt="Silas-Gif" src="https://media3.giphy.com/media/aNeyXVMrED6fUO1Exy/giphy.gif">
+
+
+### Quais linguagens/ferramentas eu utilizo?
 <table>
   <tbody>
     <tr>
@@ -50,7 +56,6 @@ Diante de vocês têm mais um amante da tecnologia que busca sempre pelo aprendi
   </tbody>
 </table>
 
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasmasay&show_icons=true&locale=pt-br&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasmasay&layout=compact&locale=pt-br&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silasmasay&&locale=pt-br&bg_color=120,2dc1d0,5fe8a2&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasmasay&layout=compact&locale=pt-br&bg_color=45,5fe8a2,2dc1d0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
