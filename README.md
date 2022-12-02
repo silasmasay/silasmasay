@@ -39,7 +39,7 @@ const getCurrentWorkplace = () => ({
 });
 
 const getLearning = () => ({
-  projects: [
+  content: [
     'NextJS',
     'Jest',
     'Styled Components',
@@ -108,7 +108,7 @@ _“Pleasure in the Job Puts Perfection in the Work.”_ — Aristóteles
          <br>React.js
       </td>
       <td align="center">
-        <img align="center" title="Next.js" alt="Next.js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+        <img align="center" title="Next.js" alt="Next.js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
          <br>Next.js
       </td>
       <td align="center">
